@@ -1,0 +1,6 @@
+img配下に対象の画像を置く
+1つの物体を削除したいときは以下のコードを実行->ポイント２点で対象物体を選択->Enterで削除
+足りないモジュールはいい感じにインストール
+$ python remove_one_object.py
+2つ以上の時は
+$ python remove_some_objects.py
